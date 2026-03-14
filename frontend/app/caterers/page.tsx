@@ -1,9 +1,3 @@
-/**
- * BROWSE PAGE  /caterers
- * "use client" — uses useCaterers, useDebounce, useLocalStorage hooks.
- * Redesigned: Luxury editorial aesthetic matching homepage.
- * DM Serif Display + Instrument Sans, scroll-reveal, premium spacing.
- */
 'use client';
 
 import { useState, useCallback } from 'react';
