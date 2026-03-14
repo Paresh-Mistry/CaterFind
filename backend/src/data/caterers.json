@@ -1,0 +1,192 @@
+[
+  {
+    "id": "cat_001",
+    "name": "Spice Garden Catering",
+    "location": "Mumbai, Maharashtra",
+    "pricePerPlate": 850,
+    "cuisines": [
+      "Indian",
+      "Mughlai",
+      "Rajasthani"
+    ],
+    "rating": 4.8,
+    "reviewCount": 312,
+    "minGuests": 50,
+    "maxGuests": 2000,
+    "description": "Award-winning catering service with 20+ years of experience in authentic Indian cuisine. Known for live counters and elaborate buffet setups.",
+    "contactEmail": "info@spicegarden.com",
+    "contactPhone": "+91-9876543210",
+    "tags": [
+      "wedding",
+      "corporate",
+      "buffet",
+      "live-counter"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1555244162-803834f70033?w=400"
+    ],
+    "isVerified": true,
+    "createdAt": "2023-01-15T08:00:00.000Z"
+  },
+  {
+    "id": "cat_002",
+    "name": "Bella Italia Events",
+    "location": "Bengaluru, Karnataka",
+    "pricePerPlate": 1200,
+    "cuisines": [
+      "Italian",
+      "Continental",
+      "Mediterranean"
+    ],
+    "rating": 4.6,
+    "reviewCount": 187,
+    "minGuests": 30,
+    "maxGuests": 500,
+    "description": "Bringing authentic European flavors to your special occasions. Our Italian chefs craft everything from scratch using imported ingredients.",
+    "contactEmail": "hello@bellaitalia.in",
+    "contactPhone": "+91-9876543211",
+    "tags": [
+      "wedding",
+      "corporate",
+      "fine-dining",
+      "plated-service"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400"
+    ],
+    "isVerified": true,
+    "createdAt": "2023-03-20T09:00:00.000Z"
+  },
+  {
+    "id": "cat_004",
+    "name": "The Coastal Kitchen",
+    "location": "Chennai, Tamil Nadu",
+    "pricePerPlate": 950,
+    "cuisines": [
+      "South Indian",
+      "Seafood",
+      "Chettinad"
+    ],
+    "rating": 4.9,
+    "reviewCount": 224,
+    "minGuests": 25,
+    "maxGuests": 800,
+    "description": "Specialists in authentic South Indian and coastal cuisine. Our seafood spreads are legendary across Chennai's event circuit.",
+    "contactEmail": "info@coastalkitchen.in",
+    "contactPhone": "+91-9876543213",
+    "tags": [
+      "wedding",
+      "corporate",
+      "seafood",
+      "traditional"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400"
+    ],
+    "isVerified": true,
+    "createdAt": "2023-05-01T11:00:00.000Z"
+  },
+  {
+    "id": "cat_005",
+    "name": "Urban Bites Co.",
+    "location": "Hyderabad, Telangana",
+    "pricePerPlate": 750,
+    "cuisines": [
+      "Hyderabadi",
+      "Biryani",
+      "Kebabs",
+      "Mughlai"
+    ],
+    "rating": 4.7,
+    "reviewCount": 389,
+    "minGuests": 50,
+    "maxGuests": 1500,
+    "description": "Home of the authentic Hyderabadi dum biryani. Our signature biryani and kebab counters are a crowd favorite at every event.",
+    "contactEmail": "orders@urbanbites.in",
+    "contactPhone": "+91-9876543214",
+    "tags": [
+      "wedding",
+      "biryani-specialist",
+      "live-counter",
+      "budget-friendly"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=400"
+    ],
+    "isVerified": false,
+    "createdAt": "2023-07-18T12:00:00.000Z"
+  },
+  {
+    "id": "cat_006",
+    "name": "Green Leaf Vegan Catering",
+    "location": "Pune, Maharashtra",
+    "pricePerPlate": 1100,
+    "cuisines": [
+      "Vegan",
+      "Health Food",
+      "International"
+    ],
+    "rating": 4.5,
+    "reviewCount": 98,
+    "minGuests": 20,
+    "maxGuests": 300,
+    "description": "Pune's premier vegan catering service. Wholesome, plant-based menus crafted by nutritionists for health-conscious events.",
+    "contactEmail": "hello@greenleaf.in",
+    "contactPhone": "+91-9876543215",
+    "tags": [
+      "corporate",
+      "health-conscious",
+      "vegan",
+      "small-events"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400"
+    ],
+    "isVerified": true,
+    "createdAt": "2023-09-05T13:00:00.000Z"
+  },
+  {
+    "id": "cat_0e480cf2",
+    "name": "Royal feast Caterer",
+    "location": "Mumbai,Maharashtra",
+    "pricePerPlate": 565,
+    "cuisines": [
+      "Indian"
+    ],
+    "rating": 5,
+    "reviewCount": 0,
+    "minGuests": 45,
+    "maxGuests": null,
+    "description": "s44ssdsad  fdsffjhfjdf fmn fjnsjfnf",
+    "contactEmail": "dsd4",
+    "contactPhone": "446656556",
+    "tags": [],
+    "images": [],
+    "isVerified": false,
+    "createdAt": "2026-03-13T13:27:36.595Z"
+  },
+  {
+    "id": "cat_d3befb9f",
+    "name": "rssd",
+    "location": "Bangaluru",
+    "pricePerPlate": 885,
+    "cuisines": [
+      "Continental",
+      "Biryani"
+    ],
+    "rating": 4,
+    "reviewCount": 0,
+    "minGuests": 65,
+    "maxGuests": 2665,
+    "description": "ssdsdsdd",
+    "contactEmail": "ds@b.com",
+    "contactPhone": "65565565",
+    "tags": [
+      "corporate",
+      "premium"
+    ],
+    "images": [],
+    "isVerified": false,
+    "createdAt": "2026-03-14T04:46:20.474Z"
+  }
+]
