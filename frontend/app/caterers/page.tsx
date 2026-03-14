@@ -17,7 +17,6 @@ import ResultsBar from '@/components/ResultBar';
 import ErrorBanner from '@/components/ErrorBanner';
 
 
-// ─── Constants ────────────────────────────────────────────────────────────────
 const DEFAULT_FILTERS: Partial<CatererFilters> = {
   sortBy: 'rating',
   page: 1,
@@ -28,8 +27,6 @@ function countActive(f: Partial<CatererFilters>): number {
   return (['search', 'location', 'cuisine', 'minPrice', 'maxPrice', 'minRating'] as const)
     .filter((k) => !!f[k]).length;
 }
-
-// ─── Page ─────────────────────────────────────────────────────────────────────
 
 export default function CaterersPage() {
   const [savedFilters, setSavedFilters] = useLocalStorage<Partial<CatererFilters>>(
